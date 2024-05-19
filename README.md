@@ -56,7 +56,7 @@ The program offsets the number of days in the past to match the seasonal scenery
 ### 🟩 Stage 3
 - Name/Alias: Roshni Bhatti
 - Github account: https://github.com/rbha917 
-- Published webpage for stage 3: 
+- Published webpage for stage 3: https://rbha917.github.io/exquisite-corpse-stage-3-hypothetical-year/ 
 
 *hi*
 
