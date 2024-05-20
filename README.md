@@ -58,7 +58,7 @@ The program offsets the number of days in the past to match the seasonal scenery
 - Github account: https://github.com/rbha917 
 - Published webpage for stage 3: https://rbha917.github.io/exquisite-corpse-stage-3-hypothetical-year/ 
 
-*hi*
+*I thought the variety of different landscapes in this sketch to portray the different seasons was really beautiful. Inspired by this I created a dataset that observed and categorised the types of weather conditions on the first day of each month according to the previous sketch. The categories I chose to include were green indicating a lot greenery in the landscape, clouds indicating many clouds in the sky, sun representing if sunlight could be clearly seen in the sky, snow indicating the presence of snow in the landscape and dry for if the landscape appeared to be dried out. To visualise this dataset I have overlayed images of landscapes that correspond to the different categories across the months when they occurred. Their positions e.g. high or low relate to which aspect of the image they are relating to e.g. the upper images represent clouds and sun as these relate to the sky while the image for green is along running along the bottom. The dry landscape lies between both as it is also in the clouds category along with being a dry landscape. I have stretched the snow image across the length of the whole graph as it coincidentally occurred only on the first day of the first and last month in the year so I used it to build a frame around the whole piece.*
 
 ### 🟦 Stage 4
 - Name/Alias:
